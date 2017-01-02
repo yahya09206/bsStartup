@@ -1,6 +1,7 @@
 body {
 	background-image: url(https://images.unsplash.com/photo-1415369629372-26f2fe60c467?dpr=1&auto=compress,format&fit=crop&w=767&);
 	background-size: cover;
+	background-position: center;
 }
 
 #content {
